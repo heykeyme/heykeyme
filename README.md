@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi there, I'm [MUHAMMAD NOOR HAKIMI BIN ABDUL HALIM] 👋  
+🚀 Passionate about Full-Stack Development | Learning React.js & Java  
 
-<!--
-**heykeyme/heykeyme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently building projects using **React.js (Frontend) & Java (Backend)**  
+- 🌱 Improving my skills in **Spring Boot, REST APIs, and Database Management**  
+- 📫 Let's connect: (https://www.linkedin.com/in/hakimihalim21/)
+- 💡 Looking for entry-level roles as **Frontend, Backend, or Full-Stack Developer**  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack  
+- **Frontend:** React.js, JavaScript, HTML, CSS  
+- **Backend:** Java, Spring Boot  
+- **Database:** MySQL, Firebase  
+- **Version Control:** Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects  
+🔹 [NeighbourhoodWatch](https://github.com/heykeyme/neighbourhoodWatch) - Java, MVC Architecture, SQL, Git, Github, JSP, Servlet, JavaBean  
+🔹 [Hotel Booking System](https://github.com/heykeyme/projectJavaOop) - Simple project to understand all the basic to advanced concept purely with Java
+
